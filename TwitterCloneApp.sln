@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterCloneMVCUI", "TwitterCloneMVCUI\TwitterCloneMVCUI.csproj", "{EC0553F8-5C90-4C25-9872-F870AA070AD6}"
 EndProject
-Global
+Global end project
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
